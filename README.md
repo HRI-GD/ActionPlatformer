@@ -6,7 +6,7 @@ Unreal Engine 5.6과 Blueprint로 이동·점프, 근접 공격, 검 투척, 적
 
 ## 스크린샷
 
-![ActionPlatformer 실행 화면](docs/images/gameplay.jpg)
+추가예정
 
 *로컬 프로젝트 실행 화면*
 
